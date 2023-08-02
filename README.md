@@ -20,7 +20,7 @@
 
 ### Чем могу помочь  
 - ❓ Спросите меня обо всем что связанно с бизнес-аналитикой и новыми фичами которые могут пригодится в работе бизнес-аналитика✌️  
-  
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Rayray360180-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rayray360) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rayray360180@gmail.com)  
 
 
 
