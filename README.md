@@ -32,7 +32,7 @@
 ### Ключевые навыки  
 #### Python; SQL; Базы данных; BPMN; UML; Моделирование бизнес процессов; Power BI; MS Excel; MS Visio; MS Office; Atlassian Jira; Atlassian Confluence; Управление проектами; Работа с требованиями; Agile; Scrum; Kanban; Работа в команде; Ведение переговоров; Сбор и анализ информации; Написание ТЗ; Use Case; Use story; Жизненный цикл информационных систем, методологии разработки ПО; Практический опыт работы с требованиями и заказчиками; Знание и умение применять на практике методов оценки трудоемкости  
 
-ML, scikit-learn, streamlit, pandas, numpy, matplotlib, statsmodels, catboost, scipy, seaborn, plotly, React js, C/C++
+ML, scikit-learn, streamlit, pandas, numpy, matplotlib, statsmodels, catboost, scipy, seaborn, plotly, React js, C/C++,
 swagger
 
 <br/>  
