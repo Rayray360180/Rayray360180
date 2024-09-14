@@ -1,70 +1,56 @@
+### Привет! 👋 Меня зовут Рустам Ибраев  
+Я закончил магистратуру по направлению «Информационные системы и технологии». Сейчас работаю бизнес-аналитиком 👨‍💻 удаленно с 2022 года 🚀, и стремлюсь развиваться как системный аналитик.  
 
+---
 
-### Обо мне  
-- ### Привет! Меня зовут Рустам Ибраев, закончил магистратуру по направлению «информационные системы и технологии», а также я бизнес аналитик 👨‍💻 работаю удаленно с 2022 г. 🚀  
+### Чем я занимаюсь  
+- 💼 Работаю аналитиком, занимаюсь анализом бизнес-процессов, сбором и формализацией требований.  
+- 🧑‍💻 В свободное время люблю программировать на языке C, а также изучать новые технологии в сфере аналитики и машинного обучения.  
 
+---
 
+### Что изучаю  
+- 🌱 Овладеваю продвинутыми навыками системного анализа программных продуктов и машинного обучения. В свободное время читаю статьи и книги по этим темам, а также применяю знания на практике.  
+- 🔮 На моем GitHub вы можете найти [проект на Streamlit]([https://github.com/Rayray360180/fqp_ira]), в котором я сделал приложение для прогнозирования рынка труда России. Для получения полного исходного кода и Notebook'ов — пишите!  
 
-
-### Чем занимаюсь в настоящее время  
-- Работаю аналитиком, 🔭 в свободное время люблю писать на Си.  
-  
-
-
-
-### Что изучаю в настоящее время  
-- 🌱 В настоящее время овладеваю более продвинутыми навыками в системной аналитике программных продуктов и машинном обучении, в основном через прочтение новых книг, статей а также не забываю про практику. Также можете посмотреть на один из моих репозиториев где мне удалось создать приложение на streamlit для прогнозирования рынка труда России, в данном приложении отображена часть работы, за дополнительными Notebook's можете смело обращаться если интересно)
-  
-
-
+---
 
 ### Чем могу помочь  
-- ❓ С радостью поделюсь своими знаниями и опытом в области бизнес-аналитики, системного анализа и новейших технологий, которые могут оптимизировать работу аналитиков. Также являюсь энтузиастом машинного обучения и с удовольствием обсужу эту тему. Кроме того, имею  небольшие навыки фронтенд-разработки.✌️  
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Rayray360180-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rayray360) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rayray360180@gmail.com)  
+- 🤝 С радостью поделюсь знаниями и опытом в области бизнес-анализа, системного анализа и новейших технологий. Также готов обсудить проекты в области машинного обучения.  
+- 💬 У меня есть небольшой опыт фронтенд-разработки и работа с аналитическими инструментами. Если у вас есть вопросы — пишите!  
+- 📬 Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Rayray360180-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rayray360) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rayray360180@gmail.com)
 
+---
 
+### Забавный факт  
+- ⚡ Обожаю общение и коммуникацию. Кстати, мне 30 лет — да, то фото на странице из моего детства! 😄
 
-### Забавный  факт  
-- ⚡ Люблю людей, обожаю общаться и коммуницировать  P.S.(фотка из детства, сейчас мне 30)
+---
 
-
-
-### Ключевые навыки  
-#### Python; SQL; Базы данных; BPMN; UML; Моделирование бизнес процессов; Power BI; MS Excel; MS Visio; MS Office; Atlassian Jira; Atlassian Confluence; Управление проектами; Работа с требованиями; Agile; Scrum; Kanban; Работа в команде; Ведение переговоров; Сбор и анализ информации; Написание ТЗ; Use Case; Use story; Жизненный цикл информационных систем, методологии разработки ПО; Практический опыт работы с требованиями и заказчиками; Знание и умение применять на практике методов оценки трудоемкости  
-
-ML, scikit-learn, streamlit, pandas, numpy, matplotlib, statsmodels, catboost, scipy, seaborn, plotly, React js, C/C++,
-swagger
-
-<br/>  
-
+### Мои навыки  
+#### Ключевые навыки:
+- **Python**, **SQL**, **Базы данных**, **BPMN**, **UML**, **Моделирование бизнес-процессов**, **Power BI**, **MS Excel**, **MS Visio**, **Atlassian Jira**, **Confluence**, **Agile**, **Scrum**, **Kanban**, **Сбор и анализ требований**, **Проектная документация**  
+- **ML**: scikit-learn, streamlit, pandas, numpy, matplotlib, statsmodels, catboost, scipy, seaborn, plotly  
+- **Языки программирования**: C, Python, JavaScript. 
+- **Фреймворки**: React.js, Swagger  
+- **Инструменты для фронтенда**: HTML5, CSS3  
+ 
+---
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
-
-
-### Бизнес аналитик  
+### Основные инструменты  
 <div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-### Дополнительно  
+### Дополнительные навыки  
 <div align="center">  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
@@ -72,62 +58,32 @@ swagger
 
 </td></tr></table>  
 
-<br/>  
+---
 
-
-## Connect with me  
+## Связь со мной  
 <div align="center">
 <a href="https://github.com/Rayray360180" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
+---
 
 ### 🤝 Социальные сети:
 
-  <div id="badges">
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/rustam-ibraev-946390286/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn" />
     </a>
-  
-  </div>
+</div>
 
+---
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rayray360180&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Rayray360180&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/Rayray360180" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-
