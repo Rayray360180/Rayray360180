@@ -46,9 +46,10 @@
 *   **ETL / ELT & Инженерия данных:** Apache NiFi, Apache Airflow, dbt, Python (pandas, sqlalchemy), проектирование звездных схем (Star Schema).
 *   **Администрирование и безопасность:** Управление доступом (RBAC), разграничение прав на уровне строк (RLS), настройка прав пользователей.
 *   **Инструменты и DevOps:** Git, Docker, Excel.
-
+---
 *   **Дополнительно что вне контекста привычной работы:**
-  
+---
+
 - **Python**,  **BPMN**, **UML**, **Моделирование бизнес-процессов**, **MS Visio**, **Atlassian Jira**, **Confluence**, **Agile**, **Scrum**, **Kanban**, **Сбор и анализ требований**, **Проектная документация**  
 - **ML**: scikit-learn, streamlit, pandas, numpy, matplotlib, statsmodels, catboost, scipy, seaborn, plotly  
 - **Языки программирования**: C, JavaScript, Python. 
